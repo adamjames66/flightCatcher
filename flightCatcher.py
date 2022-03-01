@@ -3,8 +3,8 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-API_KEY = API_KEY = 'AIzaSyCgpdmlURKn4rzhTqYAR5HY2GQWo7fZZhM'
-CHROMEDRIVER_PATH = 'C:/Users/af34j/projects/flightCatcher/chromedriver.exe' #path to chromedriver.exe
+API_KEY = ~
+CHROMEDRIVER_PATH = ~ #path to chromedriver.exe
 
 def main():
     #prints the recommended time you should leave to catch your flight
